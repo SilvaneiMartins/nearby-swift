@@ -25,7 +25,7 @@ O objetivo da aplicação é oferecer uma plataforma para que usuários possam a
 1. Clone o repositório:
 
 ```bash
-    $ git clone https://github.com/SilvaneiMartins/analise-informacoes
+    $ git clone https://github.com/SilvaneiMartins/nearby-swift
 ```
 
 2. Abra o projeto no Xcode.
@@ -42,7 +42,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## Licença 📝
 
-Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/analise-informacoes/blob/master/LICENSE) para obter detalhes.
+Este projeto é licenciado sob [CC0 1.0 Universal]. Consulte o arquivo [LICENSE](https://github.com/SilvaneiMartins/nearby-swift/blob/master/LICENSE) para obter detalhes.
 
 ## Contato 📩
 
